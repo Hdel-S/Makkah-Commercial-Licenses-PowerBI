@@ -8,8 +8,7 @@ An interactive Power BI Dashboard developed to analyze open data for commercial 
 ---
 
 ## 📸 Dashboard Preview / نظرة عامة على لوحة المؤشرات
-*Insert your dashboard screenshot here / قم بإدراج صورة الداشبورد هنا*
-*(Tip: upload your screenshot to github and replace this text with the image link)*
+(https://github.com/Hdel-S/Makkah-Commercial-Licenses-PowerBI/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-07-05%20052402.png?raw=true)
 
 ---
 
